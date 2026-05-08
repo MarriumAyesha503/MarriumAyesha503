@@ -49,7 +49,7 @@ Here are some ideas to get you started:
  - Event-driven architecture and real-time data processing.  
  - API design and backend performance optimization.
 
-   ---
+ ---
    
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Tech%20Stack%20⚙️&fontColor=ffffff&width=1000&height=90&section=header&fontSize=30&gradient=0:00C6FF,100:0072FF" />
