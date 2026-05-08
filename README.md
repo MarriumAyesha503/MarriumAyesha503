@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
   - Building AI-powered backend systems using LLM integration and RAG.   
   - Exploring tools like LangChain and Hugging Face Transformers for intelligent application workflows.
+  - Exploring cloud-native development and deployment using AWS services for scalable and production-ready applications.
+  - Improving system design skills for distributed systems, event-driven architectures, and high-throughput services.
 
  ---
 
@@ -45,4 +47,14 @@ Here are some ideas to get you started:
  - Backend development with Node.js and ASP.NET Core.  
  - System design for scalable and distributed applications.  
  - Event-driven architecture and real-time data processing.  
- - API design and backend performance optimization.  
+ - API design and backend performance optimization.
+
+   ---
+
+   <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Tech%20Stack%20%E2%9A%99%EF%B8%8F&fontColor=ffffff&width=300&height=70&section=header&fontSize=28&gradient=0:00C6FF,100:0072FF" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=typescript,C#,java,python,Node.js,ASP.NETCore,Angular,Kafka,RAG,ElasticSearch,docker,kubernetes,Nifi,react,nextjs,fastapi,postgres,chromadb,qdrant,git" />
+</p>
