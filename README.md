@@ -50,11 +50,11 @@ Here are some ideas to get you started:
  - API design and backend performance optimization.
 
    ---
-
+   
    <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Tech%20Stack%20%E2%9A%99%EF%B8%8F&fontColor=ffffff&width=300&height=70&section=header&fontSize=28&gradient=0:00C6FF,100:0072FF" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,c#,java,python,node.js,asp.netcore,Angular,Kafka,rag,elasticsearch,docker,kubernetes,nifi,postgres,chromadb,qdrant,git" />
+  <img src="https://skillicons.dev/icons?i=typescript,cs,java,python,nodejs,dotnet,angular,kafka,docker,kubernetes,postgres,git" />
 </p>
