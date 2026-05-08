@@ -56,5 +56,5 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,C#,java,python,Node.js,ASP.NETCore,Angular,Kafka,RAG,ElasticSearch,docker,kubernetes,Nifi,react,nextjs,fastapi,postgres,chromadb,qdrant,git" />
+  <img src="https://skillicons.dev/icons?i=typescript,c#,java,python,node.js,asp.netcore,Angular,Kafka,rag,elasticsearch,docker,kubernetes,nifi,postgres,chromadb,qdrant,git" />
 </p>
