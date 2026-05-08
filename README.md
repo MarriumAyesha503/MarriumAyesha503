@@ -14,26 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 🔧 What I am currently working on:
+### 🔧 What I am currently working on:
 
   - Building AI-powered backend systems using LLM integration and RAG.   
   - Exploring tools like LangChain and Hugging Face Transformers for intelligent application workflows.   
 
-# 🌱 What I am currently learning:
+### 🌱 What I am currently learning:
   
   - Advanced AI engineering with Large Language Models (LLMs).   
   - Hugging Face Transformers for NLP tasks.    
   - Distributed systems focused on low latency and high throughput.  
   - Scalable backend system design and architecture.  
 
-# 🤝 Collaboration interests:  
+### 🤝 Collaboration interests:  
  
   - Working on cloud-native solutions using AWS services (Lambda, EC2, S3, API Gateway, RDS) with a focus on real-world deployment and scalability.  
   - Collaborating on system design-heavy projects involving distributed systems, event-driven architecture, and high-throughput APIs.  
   - Exploring and improving application performance through profiling, optimization, and efficient data flow design in production systems.  
   - Building end-to-end AI-powered applications.
   
-# 💬 Ask me about:
+### 💬 Ask me about:
   
  - Designing Retrieval-Augmented Generation (RAG) pipelines from scratch.
  - Backend development with Node.js and ASP.NET Core.  
