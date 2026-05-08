@@ -51,8 +51,8 @@ Here are some ideas to get you started:
 
    ---
    
-   <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Tech%20Stack%20%E2%9A%99%EF%B8%8F&fontColor=ffffff&width=300&height=70&section=header&fontSize=28&gradient=0:00C6FF,100:0072FF" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Tech%20Stack%20⚙️&fontColor=ffffff&width=1000&height=90&section=header&fontSize=30&gradient=0:00C6FF,100:0072FF" />
 </p>
 
 <p align="center">
