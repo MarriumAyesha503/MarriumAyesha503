@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   - Building AI-powered backend systems using LLM integration and RAG.   
   - Exploring tools like LangChain and Hugging Face Transformers for intelligent application workflows.
 
-    ---
+ ---
 
 ### 🌱 What I am currently learning:
   
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   - Distributed systems focused on low latency and high throughput.  
   - Scalable backend system design and architecture.
 
-    ---
+ ---
 
 ### 🤝 Collaboration interests:  
  
@@ -37,9 +37,7 @@ Here are some ideas to get you started:
   - Exploring and improving application performance through profiling, optimization, and efficient data flow design in production systems.  
   - Building end-to-end AI-powered applications.
 
-    ---
-
-    ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3)
+  ---
   
 ### 💬 Ask me about:
   
@@ -48,5 +46,3 @@ Here are some ideas to get you started:
  - System design for scalable and distributed applications.  
  - Event-driven architecture and real-time data processing.  
  - API design and backend performance optimization.  
-
----
