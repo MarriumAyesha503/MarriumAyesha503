@@ -1,4 +1,4 @@
-## Hi there 👋
+## 💫 About Me
 
 <!--
 **MarriumAyesha503/MarriumAyesha503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,14 +17,18 @@ Here are some ideas to get you started:
 ### 🔧 What I am currently working on:
 
   - Building AI-powered backend systems using LLM integration and RAG.   
-  - Exploring tools like LangChain and Hugging Face Transformers for intelligent application workflows.   
+  - Exploring tools like LangChain and Hugging Face Transformers for intelligent application workflows.
+
+    ---
 
 ### 🌱 What I am currently learning:
   
   - Advanced AI engineering with Large Language Models (LLMs).   
   - Hugging Face Transformers for NLP tasks.    
   - Distributed systems focused on low latency and high throughput.  
-  - Scalable backend system design and architecture.  
+  - Scalable backend system design and architecture.
+
+    ---
 
 ### 🤝 Collaboration interests:  
  
@@ -32,6 +36,10 @@ Here are some ideas to get you started:
   - Collaborating on system design-heavy projects involving distributed systems, event-driven architecture, and high-throughput APIs.  
   - Exploring and improving application performance through profiling, optimization, and efficient data flow design in production systems.  
   - Building end-to-end AI-powered applications.
+
+    ---
+
+    ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3)
   
 ### 💬 Ask me about:
   
@@ -40,3 +48,5 @@ Here are some ideas to get you started:
  - System design for scalable and distributed applications.  
  - Event-driven architecture and real-time data processing.  
  - API design and backend performance optimization.  
+
+---
